@@ -42,9 +42,8 @@ M.insert_javadoc = function(opts)
         end
     end
 
-    table.insert(javadoc, '')
-
     if header.return_type ~= 'void' then
+        table.insert(javadoc, '')
         table.insert(javadoc, '@return ')
     end
 
