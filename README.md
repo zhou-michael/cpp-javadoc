@@ -1,7 +1,7 @@
 # cpp-javadoc
 
 ## Overview
-Plugin that inserts Javadoc style comments for cpp files using Treesitter.
+Plugin that inserts Javadoc style comments for **c++** files using Treesitter. ([Treesitter](https://github.com/nvim-treesitter/nvim-treesitter) is required.)
 
 ## Installation
 
