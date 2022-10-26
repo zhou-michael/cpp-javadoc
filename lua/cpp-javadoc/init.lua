@@ -1,3 +1,5 @@
+-- testing lol
+
 local config = require('cpp-javadoc.config')
 
 local M = {}
